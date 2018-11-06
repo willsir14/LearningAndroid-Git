@@ -1,1 +1,1 @@
-trying to add to github via CLI.
+Trying to add to github via CLI.
